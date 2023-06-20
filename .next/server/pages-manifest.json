@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/components/CSR": "pages/components/CSR.html",
+  "/components/Menu": "pages/components/Menu.html",
+  "/_error": "pages/_error.js",
+  "/contato": "pages/contato.html",
+  "/": "pages/index.html",
+  "/components/ISR": "pages/components/ISR.js",
+  "/components/SSR": "pages/components/SSR.js",
+  "/components/SSG": "pages/components/SSG.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

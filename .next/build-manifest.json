@@ -1,0 +1,70 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/IyCrJ2hxbMfmVuL4cckgI/_buildManifest.js",
+    "static/IyCrJ2hxbMfmVuL4cckgI/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-af3068766efac2e7.js",
+      "static/chunks/pages/index-357b7158437f8bf9.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-af3068766efac2e7.js",
+      "static/css/eb387734dc8f16f6.css",
+      "static/chunks/pages/_app-2ac8f99754598009.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-af3068766efac2e7.js",
+      "static/chunks/pages/_error-54de1933a164a1ff.js"
+    ],
+    "/components/CSR": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-af3068766efac2e7.js",
+      "static/chunks/pages/components/CSR-8c40bc3843c9a59b.js"
+    ],
+    "/components/ISR": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-af3068766efac2e7.js",
+      "static/chunks/pages/components/ISR-0f26feb2feecb3e1.js"
+    ],
+    "/components/Menu": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-af3068766efac2e7.js",
+      "static/chunks/pages/components/Menu-757648f51da5635b.js"
+    ],
+    "/components/SSG": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-af3068766efac2e7.js",
+      "static/chunks/pages/components/SSG-c952cf66905f059d.js"
+    ],
+    "/components/SSR": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-af3068766efac2e7.js",
+      "static/chunks/pages/components/SSR-887123a318ed6bff.js"
+    ],
+    "/contato": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-af3068766efac2e7.js",
+      "static/chunks/pages/contato-2d9052b967f7bd09.js"
+    ]
+  },
+  "ampFirstPages": []
+}
